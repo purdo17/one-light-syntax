@@ -1,11 +1,16 @@
-## One Light Syntax theme
+## Tweaked One Light Syntax theme
 
-![one-syntax-light](https://cloud.githubusercontent.com/assets/378023/7783214/c146b4e6-0174-11e5-8377-a57cf0274d5d.png)
+This is a minor tweak on the stock One Light Syntax theme. In particular,
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+  * it is crudely reverted to (probably) version 1.5.0, which is
+    compatible with Atom version ~1.12.9 shipped with Debian Jessy, and
 
-There is also a matching [UI theme](https://atom.io/themes/one-light-ui).
+  * it slightly darkens the comments (which turn out too light to work
+    with on one of my devices while being fine elsewhere).
 
-### Install
+You probably won't use or install this theme unless you are in the
+same position as I and basically like the One Light themes.
 
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
+Also, apologies for not basing the theme on the appropriate branch
+of the copied stock repository. Hopefully changes are too trivial for
+anyone to care.
