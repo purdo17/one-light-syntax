@@ -1,15 +1,26 @@
 {
-  "name": "one-light-syntax",
-  "theme": "syntax",
-  "version": "1.7.1",
-  "description": "Atom One light syntax theme",
+  "bugs": {
+    "url": "https://github.com/purdo17/one-light-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Atom One light syntax theme, modified",
+  "devDependencies": {},
+  "engines": {
+    "atom": "1.12.9"
+  },
+  "homepage": "https://github.com/purdo17/one-light-syntax#readme",
   "keywords": [
     "light",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
   "license": "MIT",
-  "engines": {
-    "atom": ">0.40.0"
-  }
+  "name": "purdo17-one-light-syntax",
+  "optionalDependencies": {},
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purdo17/one-light-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.0.0"
 }
